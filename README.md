@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hey 👋, I'm Luis Lizama
 
 <a href="https://www.linkedin.com/in/luislizamamejias/">
