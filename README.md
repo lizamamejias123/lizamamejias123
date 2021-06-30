@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Hi there, I'm **Luis Lizama Mejias**, a new **Front-End developer Vue**, I'm currently improving my **JavaScript and VueJS skills**.  👨🏽‍💼. 
+Hi there, I'm **Luis Lizama Mejias**, I'm **Front-End developer Vue** and **I am currently a Back-End JS development student**, I'm currently improving my **JavaScript and VueJS skills**.  👨🏽‍💼. 
 
   <img align="center" alt="GIF" src="https://steemitimages.com/p/2VZXybTSZJq1AreaDjRtoo3vkjQNe31KNDhzAZs4gwDSDQxbJD3aqKwoKVZX4FjSeAeitCHswPocjnrboDvNzaysWHHx7LFxZCyG4UWhqrPH1LJG8NG6cMfQYsXYMfMCNDP7ofVqi3MB4TtmnGCJ9RpKC3g?format=match&mode=fit&width=640" />
 
