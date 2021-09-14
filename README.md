@@ -19,7 +19,7 @@ Hi there, I'm **Luis Lizama Mejias**, I'm **Front-End developer Vue** and **I am
 **Talking about Personal Stuffs:**
 
 
-- 🤔 My interests are Front development and online marketing;
+- 🤔 My interests are Front End development and online marketing;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via l.lizamamejias@hotmail.com to reach me;
 
